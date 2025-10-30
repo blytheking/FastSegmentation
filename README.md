@@ -60,5 +60,5 @@ library(EBImage)
 ## Relevant Literature
 This package was adapted from the methods described in the following manuscript:
 
-Baracaldo, L., King, B., Yan, H., Lin, Y., Miolane, N., & Gu, M. (2025). Unsupervised cell segmentation by fast Gaussian Processes. _arXiv preprint arXiv:2505.18902_.
+Baracaldo, L., King, B., Yan, H., Lin, Y., Miolane, N., & Gu, M. (2025). Unsupervised cell segmentation by fast Gaussian processes. _arXiv preprint arXiv:2505.18902_.
 
