@@ -2,7 +2,9 @@ Package: FastSegmentation
 Title: Unsupervised Cell Segmentation by Fast Gaussian Processes 
 Version: 0.0.0.9000
 Authors@R: 
-    person("Blythe", "King", , "blyking@gmail.com", role = c("aut", "cre"))
+    person("Blythe", "King", , "blyking@gmail.com", role = c("aut", "cre")),
+    person("Haoran", "Yan", , "hyan82@gatech.edu", role = c("aut")),
+    person("Mengyang", "Gu", , "mengyang@pstat.ucsb.edu", role = c("aut))
 Description: Functions for performing fast Gaussian process-based segmentation of microscopy images using spatial smoothing and data-driven thresholding. Code based on the methods described in Baracaldo, L., King, B., Yan, H., Lin, Y., Miolane, N., & Gu, M. (2025). Unsupervised cell segmentation by fast Gaussian Processes. arXiv preprint arXiv:2505.18902.
 License: MIT + file LICENSE
 Encoding: UTF-8
